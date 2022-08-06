@@ -322,7 +322,7 @@ class myapp extends StatelessWidget {
                         print("Laptop");
                       },
                       child: Image.network(
-                          "https://www.teahub.io/photos/full/89-896761_apple-laptop-black-background.jpg"),
+                          "https://image01.oneplus.net/ebp/202103/12/1-m00-21-ed-rb8bwmbk1wgadz8_aai9rijgk7q405.png"),
                     ),
                   ),
                   Container(
@@ -382,7 +382,7 @@ class myapp extends StatelessWidget {
                             print("Laptop");
                           },
                           child: Image.network(
-                              "https://www.teahub.io/photos/full/89-896761_apple-laptop-black-background.jpg"),
+                              "https://image01.oneplus.net/ebp/202103/12/1-m00-21-ed-rb8bwmbk1wgadz8_aai9rijgk7q405.png"),
                         ),
                       ),
                       Container(
@@ -440,7 +440,7 @@ class myapp extends StatelessWidget {
                             print("Laptop");
                           },
                           child: Image.network(
-                              "https://www.teahub.io/photos/full/89-896761_apple-laptop-black-background.jpg"),
+                              "https://image01.oneplus.net/ebp/202103/12/1-m00-21-ed-rb8bwmbk1wgadz8_aai9rijgk7q405.png"),
                         ),
                       ),
                       Container(
